@@ -1,7 +1,6 @@
+![logo](https://github.com/Aliverdiyev/Aliverdiyev/blob/main/pasionate.jpg)
 <h1 align="center">Hi 👋, I'm Elvin</h1>
 <h3 align="center">Java Software Developer</h3>
-
-
 - ⚡ Fun fact **`this is the way**
 
 

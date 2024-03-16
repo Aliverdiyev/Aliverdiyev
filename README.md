@@ -1,6 +1,7 @@
 ![logo](https://github.com/Aliverdiyev/Aliverdiyev/blob/main/pasionate.jpg)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Elvin</h1>
 <h3 align="center">Java Software Developer</h3>
+<img align="right" alt="coding" width="200" src="https://d3k81ch9hvuctc.cloudfront.net/company/RFJqSf/images/de6099dc-c071-46c2-a66f-d880c151f61b.gif"> 
 - ⚡ Fun fact **`this is the way**
 
 

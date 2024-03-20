@@ -1,6 +1,7 @@
 ![logo](https://github.com/Aliverdiyev/Aliverdiyev/blob/main/HelloWorld.jpg)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Elvin</h1>
-<h3 align="center">Java Software Engineer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elvin!;" />
+</h1>
 - ⚡ Fun fact ~ `this is the way
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
